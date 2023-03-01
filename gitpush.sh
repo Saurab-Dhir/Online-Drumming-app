@@ -1,7 +1,7 @@
 OS="`uname`"
 case $OS in
-  'Linux')
-    OS='Linux'
+  'MINGW64_NT-10.0-19044')
+    OS='Windows'
     ;;
   'WindowsNT')
     OS='Windows'
