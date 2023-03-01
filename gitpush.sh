@@ -25,3 +25,5 @@ git merge $OS
 git branch -d $OS
 
 git push
+
+read
