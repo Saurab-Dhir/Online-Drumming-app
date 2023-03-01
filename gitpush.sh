@@ -20,7 +20,7 @@ git add .
 git commit -m "Pushing from $OS machine"
 git push
 
-git checkout main
+git checkout master
 git merge $OS
 git branch -d $OS
 
